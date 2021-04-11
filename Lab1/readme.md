@@ -1,3 +1,5 @@
+# Laboratories 1
+
 Zaimplementuj podaną na zajęciach klasę reprezentującą Ulamek (ang. Fraction), zawierającą:  
       -licznik (ang. numerator) i mianownik (ang. denominator), proszę aby były protected  
       -konstruktor bezparametrowy, który ustawi wartości licznika i mianownika  
