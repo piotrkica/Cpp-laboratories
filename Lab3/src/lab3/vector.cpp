@@ -1,5 +1,3 @@
-// author: Grzegorz Prowadzacy
-
 #include "vector.h"
 
 Vector::Vector (const Vector &other){
